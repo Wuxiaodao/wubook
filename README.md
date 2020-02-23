@@ -1,3 +1,3 @@
-# wubook
+# Novel-Jin
 
-这是一个自动化构建的gitbook
+金庸小说
